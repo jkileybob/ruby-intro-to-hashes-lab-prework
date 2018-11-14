@@ -13,7 +13,7 @@ end
 def monopoly_with_second_tier
 	monopoly = {
 		railroad: => {
-			pieces:{4}, names:{}, rent_in_dollars:
+			pieces:4, names:{}, rent_in_dollars:{}
 			}
 		}
 end
@@ -22,7 +22,7 @@ def monopoly_with_third_tier
 	monopoly = {
 		railroad:{
 			pieces:{
-				
+
 			}
 			}
 		}
